@@ -1,4 +1,5 @@
 *.prof
 *.test
 *.swp
+.idea
 /bin/
